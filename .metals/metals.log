@@ -94,3 +94,104 @@ WARNING: Unmatched cancel notification for request id 127
 2026.02.11 23:25:37 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
 2026.02.11 23:25:37 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
 2026.02.11 23:25:37 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:25:40 WARN  no build target for: D:\!PATRONES2\Main.java
+2026.02.11 23:25:41 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:25:41 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:25:41 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:44 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:44 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:47 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:47 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:48 WARN  no build target for: D:\!PATRONES2\Main.java
+2026.02.11 23:25:49 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:25:49 WARN  no build target for: D:\!PATRONES2\EstrategiaCalidad.java
+2026.02.11 23:25:49 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:25:49 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:25:49 WARN  no build target for: D:\!PATRONES2\CalidadUltraHD.java
+2026.02.11 23:25:53 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:25:53 WARN  no build target for: D:\!PATRONES2\CalidadAhorro.java
+2026.02.11 23:25:54 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:03 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:03 WARN  no build target for: D:\!PATRONES2\CalidadAdaptativa.java
+2026.02.11 23:26:03 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:03 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:06 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:06 WARN  no build target for: D:\!PATRONES2\CalidadAhorro.java
+2026.02.11 23:26:06 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:13 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:13 WARN  no build target for: D:\!PATRONES2\CalidadAdaptativa.java
+2026.02.11 23:26:13 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:13 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:14 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:14 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:18 INFO  no build target found for D:\!PATRONES2\CalidadAdaptativa.java. Using fallback presentation compiler.
+2026.02.11 23:26:18 WARN  no build target for: D:\!PATRONES2\CalidadAhorro.java
+2026.02.11 23:26:18 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:18 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:20 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\CalidadAhorro.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 WARN  no build target for: D:\!PATRONES2\CalidadUltraHD.java
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 INFO  Created report: Optional[file:///D:/!PATRONES2/CalidadUltraHD.java]
+2026.02.11 23:26:23 INFO  empty definition using pc, found symbol in pc: _empty_/Reproductor#aplicarConfiguracion(). (full report at: "D:\!PATRONES2\.metals\.reports\metals-full\2026-02-11\r_empty-definition_23-26-23-525.md")
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 INFO  empty definition using pc, found symbol in pc: _empty_/Reproductor#aplicarConfiguracion(). (full report at: "D:\!PATRONES2\.metals\.reports\metals-full\2026-02-11\r_empty-definition_23-26-23-525.md")
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:23 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:26:23 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:26:26 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:26:26 WARN  no build target for: D:\!PATRONES2\EstrategiaCalidad.java
+2026.02.11 23:26:26 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:26:30 WARN  no build target for: D:\!PATRONES2\Main.java
+2026.02.11 23:26:31 INFO  no build target found for D:\!PATRONES2\Main.java. Using fallback presentation compiler.
+2026.02.11 23:26:36 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:26:36 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:26:36 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:36 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:45 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:52 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:52 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:53 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:54 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:54 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:54 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:55 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:26:56 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:27:01 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:01 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:07 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:08 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:08 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:07 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:09 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:09 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:16 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:16 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:16 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:17 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:17 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:20 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:22 WARN  no build target for: D:\!PATRONES2\EstrategiaCalidad.java
+2026.02.11 23:27:22 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:27:22 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:27:22 WARN  no build target for: D:\!PATRONES2\CalidadUltraHD.java
+2026.02.11 23:27:22 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:27:40 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:27:40 WARN  no build target for: D:\!PATRONES2\EstrategiaCalidad.java
+2026.02.11 23:27:40 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:27:41 WARN  no build target for: D:\!PATRONES2\Main.java
+2026.02.11 23:27:40 INFO  no build target found for D:\!PATRONES2\Main.java. Using fallback presentation compiler.
+2026.02.11 23:27:41 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:27:42 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:44 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:45 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:48 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:27:48 INFO  no build target found for D:\!PATRONES2\EstrategiaCalidad.java. Using fallback presentation compiler.
+2026.02.11 23:27:49 WARN  no build target for: D:\!PATRONES2\CalidadUltraHD.java
+2026.02.11 23:27:50 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:27:50 INFO  no build target found for D:\!PATRONES2\CalidadUltraHD.java. Using fallback presentation compiler.
+2026.02.11 23:28:44 WARN  no build target for: D:\!PATRONES2\Reproductor.java
+2026.02.11 23:28:44 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.
+2026.02.11 23:31:05 INFO  no build target found for D:\!PATRONES2\Reproductor.java. Using fallback presentation compiler.

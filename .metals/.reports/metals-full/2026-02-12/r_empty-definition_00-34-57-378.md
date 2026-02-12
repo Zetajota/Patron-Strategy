@@ -1,9 +1,26 @@
+error id: file:///D:/!PATRONES2/Reproductor.java:java/lang/String#
+file:///D:/!PATRONES2/Reproductor.java
+empty definition using pc, found symbol in pc: java/lang/String#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 308
+uri: file:///D:/!PATRONES2/Reproductor.java
+text:
+```scala
 
 
 // 3. El Contexto (Context)
 public class Reproductor {
     private EstrategiaCalidad estrategia;
     private String resolucionActual;
+    private String bitrateActual;
+    private double velocidadRedSimulada;
+
+public class Reproductor {
+    private EstrategiaCalidad estrategia;
+    private Stri@@ng resolucionActual;
     private String bitrateActual;
     private double velocidadRedSimulada;
 
@@ -47,3 +64,10 @@ public class Reproductor {
         System.out.println("\n Simulacion: Nueva velocidad: " + nuevaVelocidad + " Mbps");
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/lang/String#

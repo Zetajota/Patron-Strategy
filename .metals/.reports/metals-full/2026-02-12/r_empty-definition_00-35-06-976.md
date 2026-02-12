@@ -1,3 +1,14 @@
+error id: file:///D:/!PATRONES2/Reproductor.java:_empty_/Reproductor#velocidadRedSimulada.
+file:///D:/!PATRONES2/Reproductor.java
+empty definition using pc, found symbol in pc: _empty_/Reproductor#velocidadRedSimulada.
+found definition using semanticdb; symbol Reproductor#velocidadRedSimulada.
+empty definition using fallback
+non-local guesses:
+
+offset: 1340
+uri: file:///D:/!PATRONES2/Reproductor.java
+text:
+```scala
 
 
 // 3. El Contexto (Context)
@@ -38,7 +49,7 @@ public class Reproductor {
     }
 
     public double getVelocidadRed() {
-        return velocidadRedSimulada;
+        return velocidadRedSimula@@da;
     }
 
     // Solo para pruebas
@@ -47,3 +58,9 @@ public class Reproductor {
         System.out.println("\n Simulacion: Nueva velocidad: " + nuevaVelocidad + " Mbps");
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Reproductor#velocidadRedSimulada.

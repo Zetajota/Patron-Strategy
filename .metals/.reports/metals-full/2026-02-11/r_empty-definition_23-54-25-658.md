@@ -1,3 +1,14 @@
+error id: file:///D:/!PATRONES2/Reproductor.java:java/io/PrintStream#println(+8).
+file:///D:/!PATRONES2/Reproductor.java
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 738
+uri: file:///D:/!PATRONES2/Reproductor.java
+text:
+```scala
 
 
 // 3. El Contexto (Context)
@@ -23,18 +34,18 @@ public class Reproductor {
             return;
         }
 
-        System.out.println("Iniciando Reproducción");
+        System.out.println@@("--- Iniciando Reproducción ---");
         estrategia.configurarCalidad(this);
 
-        System.out.println("   Reproductor " + resolucionActual + " | " + bitrateActual);
-        System.out.println("                                  ");
+        System.out.println("   [Reproductor] " + resolucionActual + " | " + bitrateActual);
+        System.out.println("");
     }
 
     // Helper para simplificar estrategias
     public void aplicarConfiguracion(String resolucion, String bitrate) {
         this.resolucionActual = resolucion;
         this.bitrateActual = bitrate;
-        System.out.println("   Config  " + resolucion + " / " + bitrate);
+        System.out.println("   [Config] " + resolucion + " @ " + bitrate);
     }
 
     public double getVelocidadRed() {
@@ -44,6 +55,13 @@ public class Reproductor {
     // Solo para pruebas
     public void simularCambioRed(double nuevaVelocidad) {
         this.velocidadRedSimulada = nuevaVelocidad;
-        System.out.println("\n Simulacion: Nueva velocidad: " + nuevaVelocidad + " Mbps");
+        System.out.println("\n[Simulación] Nueva velocidad: " + nuevaVelocidad + " Mbps");
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8).

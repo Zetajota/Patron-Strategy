@@ -2,6 +2,7 @@
 
 // 2. Estrategia Concreta: Calidad Adaptativa
 public class CalidadAdaptativa implements EstrategiaCalidad {
+
     @Override
     public void configurarCalidad(Reproductor context) {
         double velocidad = context.getVelocidadRed();

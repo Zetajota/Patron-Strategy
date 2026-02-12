@@ -1,3 +1,15 @@
+error id: file:///D:/!PATRONES2/Main.java:_empty_/Reproductor#ejecutar().
+file:///D:/!PATRONES2/Main.java
+empty definition using pc, found symbol in pc: _empty_/Reproductor#ejecutar().
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 291
+uri: file:///D:/!PATRONES2/Main.java
+text:
+```scala
+
 
 // 4. Clase Cliente / Main
 public class Main {
@@ -6,7 +18,7 @@ public class Main {
 
         System.out.println(" MODO AHORRO");
         miReproductor.setEstrategia(new CalidadAhorro());
-        miReproductor.ejecutar();
+        miReproductor.ejec@@utar();
 
         System.out.println(" MODO ULTRA HD");
         miReproductor.setEstrategia(new CalidadUltraHD());
@@ -18,11 +30,18 @@ public class Main {
 
         // Cambio de condiciones
         miReproductor.simularCambioRed(2.0); // Cae a 2 Mbps
-        System.out.println("  Re-evaluando (La Red cae)");
+        System.out.println("  Re-evaluando (Red cae)...");
         miReproductor.ejecutar();
 
         miReproductor.simularCambioRed(50.0); // Sube a 50 Mbps
-        System.out.println("  Re-evaluando (La Red mejora)");
+        System.out.println("  Re-evaluando (Red mejora)...");
         miReproductor.ejecutar();
     }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: _empty_/Reproductor#ejecutar().
